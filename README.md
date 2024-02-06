@@ -5,7 +5,7 @@ Grupo 4 - Integrantes
 * Persona 2
 * Persona 3
 * Persona 4
-* Persona 4
+* Persona 5
 
 Introducción
 
