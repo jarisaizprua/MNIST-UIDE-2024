@@ -2,7 +2,7 @@
 
 El proyecto muestra cómo cargar, preparar, y utilizar un clasificador de árbol de decisión con el dataset MNIST, añadiendo una característica respecto a la suma de intensidades de píxeles, y evaluando el modelo a través de la precisión y una matriz de confusión. A continuación se detalla cada parte del script:
 
-Integrantes
+Grupo 4 - Integrantes
 * Persona 1
 * Persona 2
 * Persona 3
