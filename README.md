@@ -1,12 +1,3 @@
-# MNIST-UIDE-2024
-
-Grupo 4 - Integrantes
-* EDGAR DANIEL SULCA NARANJO
-* GABRIELA ESTEFANIA CHILIQUINGA JIMENEZ
-* KAREN LISSETTE PLAZA JIMENEZ
-* MARJURY LISBETH DIAZ HARO
-* JARIS SURYA AIZPRUA BARRIOS
-
 Introducción
 
 El proyecto muestra cómo cargar, preparar, y utilizar un clasificador de árbol de decisión con el dataset MNIST, añadiendo una característica respecto a la suma de intensidades de píxeles, y evaluando el modelo a través de la precisión y una matriz de confusión. A continuación se detalla cada parte del script:
